@@ -1,5 +1,5 @@
 # WebdavStrike Exploitation Toolkit 🎲
-![banner image](https://github.com/anezatra/webdavstrike/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/webdavstrike/blob/main/banner.jpg)
 ## What is a WebdavStrike?
 **WebdavStrike is a tool that allows you to index or reverse shell sites using WebDAV vulnerabilities. WebDAV protocol is a standard for file management over HTTP. WebdavStrike is used to infect sites located on WebDAV, specifically through the Interrupt Request (PUT) Method. This method is used to perform operations such as uploading files or modifying existing files on vulnerable sites. WebdavStrike is available to users to detect sites with such vulnerabilities and perform various actions on these sites.**
 ## What is a webdav?
